@@ -7,7 +7,9 @@
 
 ![Figure 1](https://github.com/tris-10/JAG1-Membrane-Expression-Assay/blob/main/figures/Graphical%20Abstract1_rev.jpg)
 
-**Figure 1: The impact on membrane expression of 2,832 JAG1 variants**
+**Identification of abnormal JAG1 membrane expression using a high-throughput assay.**
+
+Data can be found at [MAVEdb](https://www.mavedb.org/score-sets/urn:mavedb:00001198-a-1).
 
 -----------------------------------------------------
 

@@ -14,7 +14,7 @@ Data can be found at [MAVEdb](https://www.mavedb.org/score-sets/urn:mavedb:00001
 -----------------------------------------------------
 
 ## Running Variant Score Classification
-Python 2.11.5 and libraries required: `argparse, datetime, numpy, pandas, labelsAndConstants`
+Python 2.11.5 and libraries required: `argparse, datetime, numpy, pandas`
 
 Sample input files and examples coming.
 
@@ -49,7 +49,7 @@ options:
 
 
 ### Running Classify Cross Replicates
-Python 2.11.5, and libraries required: `argparse, datetime, numpy, pandas, scipy.stats, labelsAndConstants, plotter`
+Python 2.11.5, and libraries required: `argparse, datetime, numpy, pandas, scipy.stats`
 
 Sample input files and examples coming.
 
